@@ -26,11 +26,12 @@ Play with conways game of life with pygame
    
 ### How to use:
 
- - Left click to place blocks
- - Right click to remove blocks
+ - Left click to place cells
+ - Right click to remove cells
  - Space to pause or play
  - Left arrow slows the tick speed
  - Right click increases the tick speed
+ - Esc clears all cells
 
 ### Rules:
  1. Any dead cell with 3 live neigbours becomes alive
