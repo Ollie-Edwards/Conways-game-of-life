@@ -1,10 +1,10 @@
 # pathfinding-visualisation-pygame
 Shows visually how the A* pathfinding algorithm works
 
-### Prerequisites
+### Prerequisites:
 
   ```pygame``` and ```time```
-### Installation
+### Installation:
 
 1. Clone the repo
    ```sh
@@ -12,22 +12,27 @@ Shows visually how the A* pathfinding algorithm works
    ```
 2. Install PIP packages
    ```sh
-    pip install time
-    pip install pygame
+     pip install time
+     pip install pygame
    ```
 3. CD into the project file
    ```sh
-   cd Conways-game-of-life
+    cd Conways-game-of-life
    ```
 4. Run the program
    ```sh
      python main.py
    ```
    
-  # How to use
-  
-   - Left click to place blocks
-   - Right click to remove blocks
-   - Space to pause or play
-   - Left arrow slows the tick speed
-   - Right click increases the tick speed
+### How to use:
+
+ - Left click to place blocks
+ - Right click to remove blocks
+ - Space to pause or play
+ - Left arrow slows the tick speed
+ - Right click increases the tick speed
+
+### Rules:
+ 1. Any dead cell with 3 live neigbours becomes alive
+ 2. Any live cell with 0 or 1 neibourns dies
+ 3. Any live cell with 2 or 4 neighbours stays alive
