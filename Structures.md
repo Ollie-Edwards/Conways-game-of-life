@@ -8,7 +8,7 @@
   <img src="https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/98px-Game_of_life_loaf.svg.png" width="100" height="100">
 
 - #### Block
-  <img src="https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/98px-Game_of_life_loaf.svg.png" width="100" height="100">
+  <img src="https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/Game_of_life_block_with_border.svg.png" width="100" height="100">
 
 - #### Boat
   <img src="https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/82px-Game_of_life_boat.svg.png" width="100" height="100">
