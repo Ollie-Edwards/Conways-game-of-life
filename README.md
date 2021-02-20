@@ -1,5 +1,5 @@
-# pathfinding-visualisation-pygame
-Shows visually how the A* pathfinding algorithm works
+# Conway's game of life
+Play with conways game of life with pygame
 
 ### Prerequisites:
 
