@@ -22,7 +22,7 @@
   ![Glider](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Spaceships/Game_of_life_animated_glider.gif)
 
 - #### Light weight space ship
-  ![Light weight space ship](/images/logo.png)
+  ![Light weight space ship](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Spaceships/Game_of_life_animated_LWSS.gif)
   
 - #### Medium weight space ship
   ![Heavy weight space ship](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Spaceships/Animated_Mwss.gif)
@@ -47,3 +47,9 @@
   ![Beacon](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Oscillators/I-Column.gif)
 
 ## Simple glider guns
+
+ - #### Simkin glider gun
+  ![Beacon](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Glider%20guns/749px-Game_of_life_Simkin_glider_gun.svg.png)
+  
+ - #### Gosper glider gun
+  ![Beacon](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Glider%20guns/610px-Game_of_life_glider_gun.svg.png)
