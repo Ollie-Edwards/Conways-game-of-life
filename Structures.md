@@ -5,22 +5,22 @@
 ## Stable structures:
 
 - #### Loaf
-  ![Loaf](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/98px-Game_of_life_loaf.svg.png)
+  <img src="https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/98px-Game_of_life_loaf.svg.png" width="100" height="100">
 
 - #### Block
-  ![Block](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/Game_of_life_block_with_border.svg.png)
+  <img src="https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/98px-Game_of_life_loaf.svg.png" width="100" height="100">
 
 - #### Boat
-  ![Boat](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/82px-Game_of_life_boat.svg.png)
+  <img src="https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/82px-Game_of_life_boat.svg.png" width="100" height="100">
 
 - #### Beehive
-  ![Beehive](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/98px-Game_of_life_beehive.svg.png)
+  <img src="https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Stable/98px-Game_of_life_beehive.svg.png" width="100" height="100">
 
 ## SpaceShips
 
 - #### Glider
-  ![Glider](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Spaceships/Game_of_life_animated_glider.gif)
-
+  ![Light weight space ship](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Spaceships/Game_of_life_animated_glider.gif)
+  
 - #### Light weight space ship
   ![Light weight space ship](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Spaceships/Game_of_life_animated_LWSS.gif)
   
@@ -29,6 +29,7 @@
 
 - #### Heavy weight space ship
   ![Heavy weight space ship](https://github.com/Ollie-Edwards/Conways-game-of-life/blob/main/Structures%20Folder/Spaceships/Animated_Hwss.gif)
+  
 ## Oscillators:
 
 - #### Blinker (2 phases)
