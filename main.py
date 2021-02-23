@@ -101,6 +101,7 @@ clock = pygame.time.Clock()
 while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT: 
+            pygame.quit()
             sys.exit()
 
         mouseX, mouseY = pygame.mouse.get_pos() 
@@ -134,7 +135,6 @@ while True:
     if pause == False:
         grid = calculate_next_grid()
 
-    print(pause)
     screen.fill((210,210,210))
     draw_grid()
     clock.tick(tickSpeed)
