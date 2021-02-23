@@ -2,6 +2,9 @@ import pygame
 import sys
 import time
 
+WHITE = (255,255,255)
+BLACK = (0, 0, 0)
+
 widthOfBox = 12 #12 
 width, height = 600, 600
 
