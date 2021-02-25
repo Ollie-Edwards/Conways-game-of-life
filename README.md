@@ -34,8 +34,8 @@ Play with conways game of life with pygame
  - Esc clears all cells
 
 ### Rules:
- 1. Any dead cell with 3 live neigbours becomes alive
- 2. Any live cell with 0 or 1 neibourns dies
+ 1. Any dead cell with 3 live neighbours becomes alive
+ 2. Any live cell with 0 or 1 neighbours dies
  3. Any live cell with 2 or 4 neighbours stays alive
 
 # Structures
